@@ -1,7 +1,7 @@
 [![dlsnyder8's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlsnyder8&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=dlsnyder8)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=dlsnyder8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **dlsnyder8/dlsnyder8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
