@@ -1,7 +1,7 @@
 [![dlsnyder8's GitHub stats](https://github-readme-stats-rho-taupe.vercel.app/api?username=dlsnyder8&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Languages Used](https://github-readme-stats-rho-taupe.vercel.app/api/top-langs/?username=dlsnyder8&layout=compact&hide=Jupyter%20Notebook&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages Used](https://github-readme-stats-rho-taupe.vercel.app/api/top-langs/?username=dlsnyder8&layout=compact&hide=Jupyter%20Notebook,TeX&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
