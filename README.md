@@ -1,4 +1,4 @@
-[![dlsnyder8's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlsnyder8&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![dlsnyder8's GitHub stats](https://github-readme-stats-dlsnyder8.vercel.app/api?username=dlsnyder8&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Languages Used](https://github-readme-stats-dlsnyder8.vercel.app/api/top-langs/?username=dlsnyder8&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
