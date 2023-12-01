@@ -1,5 +1,5 @@
 # About Me
-Hey I'm Dylan, a 23 year old Software Developer. My focus recently has been working on professional projects for my day job, but I'm getting back into coding Discord bots and various other side projects. My newest project has been working on a personal website and getting a custom email address set up for outreach without sharing my personal information *everywhere* on the internet.
+Hey I'm Dylan, a 24 year old Software Developer. My focus recently has been working on professional projects for my day job, but I'm getting back into coding Discord bots and various other side projects. My newest project has been working on a personal website and getting a custom email address set up for outreach without sharing my personal information *everywhere* on the internet.
 
 Feel free to check out my website in the sidebar, or reach out to me via email.
 
